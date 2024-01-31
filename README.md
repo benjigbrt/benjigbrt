@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Benji !
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 📫 How to reach me here
+- 😄 Pronouns: he
+- ⚡ Fun fact: hahahahahahaha
